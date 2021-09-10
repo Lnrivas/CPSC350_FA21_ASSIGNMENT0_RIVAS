@@ -2,9 +2,10 @@
  * Name: Luis Rivas
  * ID: 2365948
  * email: lrivas@chapman.edu
+ * CPSC-350-03
  * Assignment 0 - HelloWorld
+ * This is the header .h file
 */
-//header .h file
 #include <iostream> // pre-processor directive
 
 using namespace std;

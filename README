@@ -13,5 +13,7 @@ README Assignment 0: HelloWorld
 3) No errors or deviations from the assignment specification
 
 4) No references used.
+   Worked alone.
 
-5) Worked alone.
+5) g++ *.cpp
+   ./a.out

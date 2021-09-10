@@ -2,9 +2,10 @@
  * Name: Luis Rivas
  * ID: 2365948
  * email: lrivas@chapman.edu
+ * CPSC-350-03
  * Assignment 0 - HelloWorld
+ * This is the implementation .cpp file
 */
-//implementation .cpp file
 #include "HelloWorld.h"
 
 HelloWorld::HelloWorld() {

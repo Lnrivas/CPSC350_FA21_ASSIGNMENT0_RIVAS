@@ -2,9 +2,10 @@
  * Name: Luis Rivas
  * ID: 2365948
  * email: lrivas@chapman.edu
+ * CPSC-350-03
  * Assignment 0 - HelloWorld
+ * This is the main file, where our main method lives
 */
-// main file, where our main method lives
 #include "HelloWorld.h"
 
 int main(int argc, char** argv) {
